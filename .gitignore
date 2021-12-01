@@ -1,0 +1,4 @@
+.idea
+*.ipynb
+*.csv
+*/.DS_Store

@@ -161,3 +161,7 @@ Imbalanced Data 특성상 Oversampling 이 중요한 것 같다.
   - 시간 내서 Machine Learning 공부도 해보자
 
 ---
+
+# See also
+
+- [Druwa-git/AIDD_Competition](https://github.com/Druwa-git/AIDD_Competition/blob/master/README.md)

@@ -1,6 +1,6 @@
 # A.I.D.D. 2021 Code Review
 
-**[Artificial Intelligence Diabetes Datathon 2021](https://github.com/DatathonInfo/AIDD2021)**
+![Poster](https://user-images.githubusercontent.com/92664643/139574595-cc76ee75-5ee1-4089-bf10-d959fa06f9f7.jpg)
 
 Team: 영선없는영선팀
 - **[Dongha Kim](https://github.com/kdha0727)**
@@ -12,8 +12,20 @@ Team: 영선없는영선팀
 
 # About Competition
 
+**[2021 Artificial Intelligence Diabetes Datathon](https://github.com/DatathonInfo/AIDD2021)**
+
 - Objective: To predict Diabetes from 22 columns - `Binary Classification of Diabetes`
 - How: Train and submit models on NSML (**[about NSML](NSML.md)**)
+
+> A.I.D.D. 2021은 ‘2021 인공지능 학습용 데이터 구축사업’을 통해 만들어진 학습용 데이터를 활용하여 당뇨병을 효과적으로 예측할 수 있는가에 대한 AI 모델링 챌린지입니다.
+> 
+> 본 대회는 NAVER CLOUD PLATFORM의 고성능 클라우드 인프라 상에서 운영되며 네이버의 클라우드 머신러닝 플랫폼인 NSML(Naver Smart Machine Learning)과 함께 합니다. <strong>[NAVER CLOUD PLATFORM](https://www.ncloud.com/)</strong>과 <strong>[NSML](https://ai.nsml.navercorp.com/intro)</strong>은 개발자들이 "모델 개발과 알고리즘 최적화"에만 집중할 수 있도록 필요한 제반 환경을 제공합니다. 
+> AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 기다리고 있습니다.
+>
+
+---
+
+# Rank
 
 |Contest|Submission|Score|Rank|
 |------|-----|-----|-----|
@@ -165,3 +177,6 @@ Imbalanced Data 특성상 Oversampling 이 중요한 것 같다.
 # See also
 
 - [Druwa-git/AIDD_Competition](https://github.com/Druwa-git/AIDD_Competition/blob/master/README.md)
+- [NSML 기본 사용 가이드](https://n-clair.github.io/ai-docs/_build/html/ko_KR/index.html)
+
+---
